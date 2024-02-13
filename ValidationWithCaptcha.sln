@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationWithCaptcha", "ValidationWithCaptcha\ValidationWithCaptcha.csproj", "{A9962C4E-A97F-4C0F-84DF-4937D2AD421D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9962C4E-A97F-4C0F-84DF-4937D2AD421D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9962C4E-A97F-4C0F-84DF-4937D2AD421D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9962C4E-A97F-4C0F-84DF-4937D2AD421D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9962C4E-A97F-4C0F-84DF-4937D2AD421D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E93D762F-E19A-4333-92B5-E6BA15AE76D0}
+	EndGlobalSection
+EndGlobal
